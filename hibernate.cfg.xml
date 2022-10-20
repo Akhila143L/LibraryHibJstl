@@ -12,6 +12,7 @@
         <mapping class="com.infinite.libraryproj.LibUsers" />
         <mapping class="com.infinite.libraryproj.Books" />
          <mapping class="com.infinite.libraryproj.TranBook" />
-        
+         <mapping class="com.infinite.libraryproj.ReturnBook" />
+
     </session-factory>
 </hibernate-configuration>
